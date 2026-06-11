@@ -80,5 +80,5 @@ WildNet Animal Image Classifier
 
 ## 📬 Contact
 
-- LinkedIn: [waqarabid](https://www.linkedin.com/in/waqarabid)
-- GitHub: [@waqar-ai](https://github.com/waqar-ai)
+- LinkedIn: https://www.linkedin.com/in/mouattar/
+
